@@ -1,7 +1,5 @@
 # calculator-c
 
-# 📘 Calculatrice en C
-
 Ce projet est une **calculatrice en ligne de commande** développée en langage C.  
 Il a été réalisé dans le cadre de mon **initiation au langage C** et à la programmation système.
 
